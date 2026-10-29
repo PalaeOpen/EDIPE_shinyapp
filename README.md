@@ -55,16 +55,16 @@ EDIPE includes 490 publications and 2807 collection units, defined as the physic
   
 ## Contributing
   
-Suggestions, corrections, and new bibliographic records are welcome. Please contact 
+Suggestions, corrections, and new bibliographic records are welcome. Please contact [**Xavier Benito**](mailto:xavier.benito@irta.cat)
 
 ---
   
 ## How to cite EDIPE?
-  
+EDIPE has received support from the [EU COST Action PalaeOpen](https://www.cost.eu/actions/CA23116/)
 
 ---
 
 ## Contact
   
-Email [**Xavier Benito**](mailto:xavier.benito@irta.cat), Marine and Continental Waters Programme, Institute of Agrifood Research and Technology (IRTA), Spain
+Email [**Xavier Benito**](mailto:xavier.benito@irta.cat), Marine and Continental Waters Programme, Institute of Agrifood Research and Technology (IRTA), Spain\
 Personal website: https://xbenitogranell.github.io
