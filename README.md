@@ -10,10 +10,10 @@ The European Diatom Inventory for Palaeoecology and Ecology (EDIPE) is a a curat
 ---
 
 ## Features
-- Search publications by site name, article title, ecosystem type, dating method
+- Search publications by site name, article title, ecosystem type, and dating method
 - Filter collection units by:
   - Data source: European Diatom Database (EDDI), LakeCores metadatabase, and novel literature review PalaeOpen
-  - Data type: sediment surface sample, top-bottom core, core, and section 
+  - Data type: sediment surface samples, top-bottom sample pairs, cores, and sections (i.e., geological deposits) 
   - Data available and repository
   - Temporal coverage
 
@@ -64,8 +64,7 @@ Suggestions, corrections, and new bibliographic records are welcome. Please cont
 
 ---
 
-## ✉ Contact
+## Contact
   
-Email [**Xavier Benito**](mailto:xavier.benito@irta.cat)  
-[Personal website](https://xbenitogranell.github.io) 
-Marine and Continental Waters Programme, Institute of Agrifood Research and Technology (IRTA), Spain
+Email [**Xavier Benito**](mailto:xavier.benito@irta.cat), Marine and Continental Waters Programme, Institute of Agrifood Research and Technology (IRTA), Spain
+Personal website: https://xbenitogranell.github.io
